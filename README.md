@@ -14,3 +14,13 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ## Inspiration and objetive
 Identify and classify fraudulent credit card transactions.
+
+---
+
+## **Note:** You can look the data and the real competition in kaggle here: 
+
+### - [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+##  And if you want see my notebook in kaggle, is here: 
+
+### - [Credit Card Fraud Detection with ML and DP](https://www.kaggle.com/dataengel/credit-card-fraud-detection-with-ml-and-dp)
